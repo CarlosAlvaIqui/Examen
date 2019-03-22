@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: blue;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#container{
+	 background:#DDD url('https://imagenescityexpress.scdn6.secure.raxcdn.com/sites/default/files/2017-08/comida-mexicana-patrimonio.jpg');
+}
